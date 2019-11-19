@@ -1,0 +1,14 @@
+C:\Users\aviel\source\repos\OnlineCalculatorEx1\OnlineCalculatorEx1\bin\Debug\netcoreapp2.1\OnlineCalculatorEx1.deps.json
+C:\Users\aviel\source\repos\OnlineCalculatorEx1\OnlineCalculatorEx1\bin\Debug\netcoreapp2.1\OnlineCalculatorEx1.runtimeconfig.json
+C:\Users\aviel\source\repos\OnlineCalculatorEx1\OnlineCalculatorEx1\bin\Debug\netcoreapp2.1\OnlineCalculatorEx1.runtimeconfig.dev.json
+C:\Users\aviel\source\repos\OnlineCalculatorEx1\OnlineCalculatorEx1\bin\Debug\netcoreapp2.1\OnlineCalculatorEx1.dll
+C:\Users\aviel\source\repos\OnlineCalculatorEx1\OnlineCalculatorEx1\bin\Debug\netcoreapp2.1\OnlineCalculatorEx1.pdb
+C:\Users\aviel\source\repos\OnlineCalculatorEx1\OnlineCalculatorEx1\obj\Debug\netcoreapp2.1\OnlineCalculatorEx1.csprojAssemblyReference.cache
+C:\Users\aviel\source\repos\OnlineCalculatorEx1\OnlineCalculatorEx1\obj\Debug\netcoreapp2.1\OnlineCalculatorEx1.csproj.CoreCompileInputs.cache
+C:\Users\aviel\source\repos\OnlineCalculatorEx1\OnlineCalculatorEx1\obj\Debug\netcoreapp2.1\OnlineCalculatorEx1.RazorAssemblyInfo.cache
+C:\Users\aviel\source\repos\OnlineCalculatorEx1\OnlineCalculatorEx1\obj\Debug\netcoreapp2.1\OnlineCalculatorEx1.RazorAssemblyInfo.cs
+C:\Users\aviel\source\repos\OnlineCalculatorEx1\OnlineCalculatorEx1\obj\Debug\netcoreapp2.1\OnlineCalculatorEx1.AssemblyInfoInputs.cache
+C:\Users\aviel\source\repos\OnlineCalculatorEx1\OnlineCalculatorEx1\obj\Debug\netcoreapp2.1\OnlineCalculatorEx1.AssemblyInfo.cs
+C:\Users\aviel\source\repos\OnlineCalculatorEx1\OnlineCalculatorEx1\obj\Debug\netcoreapp2.1\OnlineCalculatorEx1.RazorTargetAssemblyInfo.cache
+C:\Users\aviel\source\repos\OnlineCalculatorEx1\OnlineCalculatorEx1\obj\Debug\netcoreapp2.1\OnlineCalculatorEx1.dll
+C:\Users\aviel\source\repos\OnlineCalculatorEx1\OnlineCalculatorEx1\obj\Debug\netcoreapp2.1\OnlineCalculatorEx1.pdb
